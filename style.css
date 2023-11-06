@@ -1,3 +1,15 @@
+body{background-color: black;
+
+}
+
+
 h1 {
     color:black;
+text-align: center
+font-size: 50px;
+}
+
+.principal {
+      background: black;
+    font-size: 30px;
 }
